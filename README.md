@@ -1,2 +1,2 @@
 # Tetris
-Recreated Tetris using Tkinter
+Recreated Tetris using pygame
